@@ -1,0 +1,47 @@
+Got it! Here’s a **neat, concise, internship-ready README** for your Travel Recommendation System
+
+# **Travel Recommendation System (Plain Python)**
+
+## **Overview**
+
+A simple, interactive **Travel Recommendation System** built with **pure Python**.
+Recommends travel destinations based on **budget, weather preference, and activities**. No external libraries required.
+
+## **Features**
+
+* Suggests destinations using **basic similarity scoring**.
+* Fully **runs in IDLE**.
+* Interactive: user enters **budget, weather, and activities**.
+* Returns **top recommended destinations**.
+
+## **How to Use**
+
+1. Run the Python file in **IDLE**.
+2. Enter preferences when prompted:
+
+   * Budget: `low`, `medium`, `high`
+   * Weather: `tropical`, `temperate`, `cold`
+   * Activities: comma-separated (e.g., `adventure, beach`)
+3. See recommended destinations.
+
+**Example:**
+
+Enter your budget: high
+Preferred weather: cold
+Activities: adventure, hiking
+
+Recommended destinations:
+- Iceland
+- Switzerland
+- Paris
+
+
+## **Dataset**
+
+Sample dataset with 6 destinations, including:
+
+* Name
+* Budget
+* Weather
+* Activities
+
